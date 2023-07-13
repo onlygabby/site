@@ -186,7 +186,7 @@ header {
 nav {
     border: none;
     border-radius: 10px;
-    background-color: #000000;
+    background-color: #5e5e5ec2;
     margin: 1%;
     padding: 1%;
 }
@@ -203,7 +203,7 @@ aside {
     float: right;
     border: none;
     border-radius: 10px;
-    background-color: #000000;
+    background-color: #5e5e5ec2;
     margin: 0 1% 1% 1%;
     padding: 1%;
     width: 26%;
@@ -212,7 +212,7 @@ aside {
 footer {
     border: none;
     border-radius: 10px;
-    background-color: #000000;
+    background-color: #5e5e5ec2;
     clear: both;
     text-align: center;
     margin: 1%;
@@ -233,7 +233,7 @@ nav li a, aside li a {
     text-decoration: none;
 }
 nav li a:hover, aside li a:hover {
-    background-color: #000000;
+    background-color: #5e5e5ec2;
     color: white;
 }
 aside li a {
