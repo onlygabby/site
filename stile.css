@@ -18,6 +18,46 @@ nav ul {
   padding: 0;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.top-bar {
+  background-color: #333;
+  color: #fff;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.logo {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.menu {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+.menu li {
+  margin-right: 20px;
+}
+
+.menu li a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.menu li a:hover {
+  text-decoration: underline;
+}
+
+
 nav ul li {
   display: inline;
 }
